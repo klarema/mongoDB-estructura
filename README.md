@@ -1,6 +1,6 @@
 # mongoDB-estructura
 
-Set'up:
+Set-up:
 mongoDB installed and running
 mongosh installed
 mongo compass installed, connected on localhost default port 27017
