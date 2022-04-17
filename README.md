@@ -6,7 +6,7 @@ mongosh installed
 mongo compass installed, connected on localhost default port 27017
 
 CREATE DB:
-mongosh: use <nameThisDB>
+mongosh: use nameThisDB
 
 ADD DATA FROM JS FILE
 In mongo install directory (Program files)
